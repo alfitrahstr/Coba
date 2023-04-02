@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T13:30:28 ICT" name="Default suite" finished-at="2023-03-25T13:30:34 ICT" duration-ms="6707">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T13:30:28 ICT" name="Default test" finished-at="2023-03-25T13:30:34 ICT" duration-ms="6707">
+      <class name="yopmail.tugas3.WebTestUsingPOMManual">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:yopmail.tugas3.WebTestUsingPOMManual@413f69cc]" started-at="2023-03-25T13:30:28 ICT" name="setUp" finished-at="2023-03-25T13:30:32 ICT" duration-ms="4513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEmail()[pri:0, instance:yopmail.tugas3.WebTestUsingPOMManual@413f69cc]" started-at="2023-03-25T13:30:32 ICT" name="testEmail" finished-at="2023-03-25T13:30:34 ICT" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:yopmail.tugas3.WebTestUsingPOMManual@413f69cc]" started-at="2023-03-25T13:30:34 ICT" name="tearDown" finished-at="2023-03-25T13:30:34 ICT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- yopmail.tugas3.WebTestUsingPOMManual -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
